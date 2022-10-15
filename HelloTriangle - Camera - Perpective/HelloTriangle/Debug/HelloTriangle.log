@@ -1,0 +1,14 @@
+﻿  Source.cpp
+D:\Arquivos e Programas\GitHub\FCG2022-2\HelloTriangle - Camera - Perpective\HelloTriangle\Source.cpp(213,50): warning C4305: 'argumento': truncamento de 'double' para 'float'
+D:\Arquivos e Programas\GitHub\FCG2022-2\HelloTriangle - Camera - Perpective\HelloTriangle\Source.cpp(393,2): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+D:\Arquivos e Programas\GitHub\FCG2022-2\HelloTriangle - Camera - Perpective\HelloTriangle\Source.cpp(421,15): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+D:\Arquivos e Programas\GitHub\FCG2022-2\HelloTriangle - Camera - Perpective\HelloTriangle\Source.cpp(424,14): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+D:\Arquivos e Programas\GitHub\FCG2022-2\HelloTriangle - Camera - Perpective\HelloTriangle\Source.cpp(427,13): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+D:\Arquivos e Programas\GitHub\FCG2022-2\HelloTriangle - Camera - Perpective\HelloTriangle\Source.cpp(483,11): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+D:\Arquivos e Programas\GitHub\FCG2022-2\HelloTriangle - Camera - Perpective\HelloTriangle\Source.cpp(484,11): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+D:\Arquivos e Programas\GitHub\FCG2022-2\HelloTriangle - Camera - Perpective\HelloTriangle\Source.cpp(488,16): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+D:\Arquivos e Programas\GitHub\FCG2022-2\HelloTriangle - Camera - Perpective\HelloTriangle\Source.cpp(489,16): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+D:\Arquivos e Programas\GitHub\FCG2022-2\HelloTriangle - Camera - Perpective\HelloTriangle\Source.cpp(490,10): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+D:\Arquivos e Programas\GitHub\FCG2022-2\HelloTriangle - Camera - Perpective\HelloTriangle\Source.cpp(491,10): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+D:\Arquivos e Programas\GitHub\FCG2022-2\HelloTriangle - Camera - Perpective\HelloTriangle\Source.cpp(493,26): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+  HelloTriangle.vcxproj -> D:\Arquivos e Programas\GitHub\FCG2022-2\HelloTriangle - Camera - Perpective\Debug\HelloTriangle.exe
